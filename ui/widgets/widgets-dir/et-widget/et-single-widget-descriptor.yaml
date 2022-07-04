@@ -1,5 +1,4 @@
 code: et-single-conf
-description: Calling API instead of App State.
 titles:
   en: Single Content
   it: Contenuto unico
